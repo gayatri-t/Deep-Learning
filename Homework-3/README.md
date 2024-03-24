@@ -1,4 +1,4 @@
-# Deep Learning Homework 2
+# Deep Learning Homework 3
 
 The codes are based on PyTorch 2.0 and Python 3.6.
 
